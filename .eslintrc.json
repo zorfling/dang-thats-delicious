@@ -1,0 +1,10 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "import"
+    ],
+    "rules": {
+      "no-underscore-dangle": "off",
+      "comma-dangle": "off"
+    }
+}
